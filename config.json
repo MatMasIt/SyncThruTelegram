@@ -1,0 +1,16 @@
+{
+    "printers": [
+        {
+            "ip": "192.168.1.2",
+            "serial_num": "08HRB8GJ5E01R8W",
+            "dynamic_ip": true,
+            "toner": true,
+            "drum": true,
+            "tray": true,
+            "alert_levels": [50, 20, 5]
+        }
+    ],
+    "update_interval": 600000,
+    "telegram_bot_token": "",
+    "telegram_user_id": 135
+}
